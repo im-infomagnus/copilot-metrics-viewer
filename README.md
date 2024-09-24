@@ -1,6 +1,7 @@
 
 
 
+
 # GitHub Copilot Metrics Viewer
 <p align="center">
   <img width="150" alt="image" src="https://github.com/github-copilot-resources/copilot-metrics-viewer/assets/3329307/8473a694-217e-4aa2-a3c7-2222a321c336">
